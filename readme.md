@@ -10,6 +10,8 @@ The game ensures fairness by preventing players from submitting multiple answers
 
 ## Contract Address
 0x7402Ad2a8ecF13D705fc4f1Bb7b06e6aDFA10bfb
+![image](https://github.com/user-attachments/assets/d6d91b3e-4cba-4e07-b62d-b01a5af9d193)
+**
 ## Key Features
 
 - **Geography-based Questions**: Players are asked trivia questions about countries, capitals, and other geographical facts.
